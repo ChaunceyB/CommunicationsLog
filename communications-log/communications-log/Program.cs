@@ -12,6 +12,8 @@ namespace communications_log
 
             Console.WriteLine("Maverick, turn around it's too dangerous!");
 
+            Console.WriteLine("I'm out of good quotes");
+
         }
     }
 }
