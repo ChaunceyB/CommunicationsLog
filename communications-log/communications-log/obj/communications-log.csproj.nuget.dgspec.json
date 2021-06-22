@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/david/Projects/studio-15/CommunicationsLog/communications-log/communications-log/communications-log.csproj": {}
+    "C:\\Users\\cback\\OneDrive - Western Governors University\\Desktop\\communication-log\\communications-log\\communications-log\\communications-log.csproj": {}
   },
   "projects": {
-    "/Users/david/Projects/studio-15/CommunicationsLog/communications-log/communications-log/communications-log.csproj": {
+    "C:\\Users\\cback\\OneDrive - Western Governors University\\Desktop\\communication-log\\communications-log\\communications-log\\communications-log.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/david/Projects/studio-15/CommunicationsLog/communications-log/communications-log/communications-log.csproj",
+        "projectUniqueName": "C:\\Users\\cback\\OneDrive - Western Governors University\\Desktop\\communication-log\\communications-log\\communications-log\\communications-log.csproj",
         "projectName": "communications-log",
-        "projectPath": "/Users/david/Projects/studio-15/CommunicationsLog/communications-log/communications-log/communications-log.csproj",
-        "packagesPath": "/Users/david/.nuget/packages/",
-        "outputPath": "/Users/david/Projects/studio-15/CommunicationsLog/communications-log/communications-log/obj/",
+        "projectPath": "C:\\Users\\cback\\OneDrive - Western Governors University\\Desktop\\communication-log\\communications-log\\communications-log\\communications-log.csproj",
+        "packagesPath": "C:\\Users\\cback\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cback\\OneDrive - Western Governors University\\Desktop\\communication-log\\communications-log\\communications-log\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/david/.config/NuGet/NuGet.Config"
+          "C:\\Users\\cback\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

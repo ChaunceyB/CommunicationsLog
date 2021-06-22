@@ -10,6 +10,8 @@ namespace communications_log
 
             Console.WriteLine("This is ground control to Major Tom");
 
+            Console.WriteLine("Maverick, turn around it's too dangerous!");
+
         }
     }
 }
