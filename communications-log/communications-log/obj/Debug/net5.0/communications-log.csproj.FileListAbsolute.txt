@@ -1,16 +1,31 @@
-C:\Users\cback\OneDrive - Western Governors University\Desktop\communication-log\communications-log\communications-log\bin\Debug\net5.0\communications-log.exe
-C:\Users\cback\OneDrive - Western Governors University\Desktop\communication-log\communications-log\communications-log\bin\Debug\net5.0\communications-log.deps.json
-C:\Users\cback\OneDrive - Western Governors University\Desktop\communication-log\communications-log\communications-log\bin\Debug\net5.0\communications-log.runtimeconfig.json
-C:\Users\cback\OneDrive - Western Governors University\Desktop\communication-log\communications-log\communications-log\bin\Debug\net5.0\communications-log.runtimeconfig.dev.json
-C:\Users\cback\OneDrive - Western Governors University\Desktop\communication-log\communications-log\communications-log\bin\Debug\net5.0\communications-log.dll
-C:\Users\cback\OneDrive - Western Governors University\Desktop\communication-log\communications-log\communications-log\bin\Debug\net5.0\ref\communications-log.dll
-C:\Users\cback\OneDrive - Western Governors University\Desktop\communication-log\communications-log\communications-log\bin\Debug\net5.0\communications-log.pdb
-C:\Users\cback\OneDrive - Western Governors University\Desktop\communication-log\communications-log\communications-log\obj\Debug\net5.0\communications-log.csproj.AssemblyReference.cache
-C:\Users\cback\OneDrive - Western Governors University\Desktop\communication-log\communications-log\communications-log\obj\Debug\net5.0\communications-log.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\cback\OneDrive - Western Governors University\Desktop\communication-log\communications-log\communications-log\obj\Debug\net5.0\communications-log.AssemblyInfoInputs.cache
-C:\Users\cback\OneDrive - Western Governors University\Desktop\communication-log\communications-log\communications-log\obj\Debug\net5.0\communications-log.AssemblyInfo.cs
-C:\Users\cback\OneDrive - Western Governors University\Desktop\communication-log\communications-log\communications-log\obj\Debug\net5.0\communications-log.csproj.CoreCompileInputs.cache
-C:\Users\cback\OneDrive - Western Governors University\Desktop\communication-log\communications-log\communications-log\obj\Debug\net5.0\communications-log.dll
-C:\Users\cback\OneDrive - Western Governors University\Desktop\communication-log\communications-log\communications-log\obj\Debug\net5.0\ref\communications-log.dll
-C:\Users\cback\OneDrive - Western Governors University\Desktop\communication-log\communications-log\communications-log\obj\Debug\net5.0\communications-log.pdb
-C:\Users\cback\OneDrive - Western Governors University\Desktop\communication-log\communications-log\communications-log\obj\Debug\net5.0\communications-log.genruntimeconfig.cache
+C:/Users/cback/OneDrive - Western Governors University/Desktop/communication-log/communications-log/communications-log/bin/Debug/net5.0/communications-log.exe
+C:/Users/cback/OneDrive - Western Governors University/Desktop/communication-log/communications-log/communications-log/bin/Debug/net5.0/communications-log.deps.json
+C:/Users/cback/OneDrive - Western Governors University/Desktop/communication-log/communications-log/communications-log/bin/Debug/net5.0/communications-log.runtimeconfig.json
+C:/Users/cback/OneDrive - Western Governors University/Desktop/communication-log/communications-log/communications-log/bin/Debug/net5.0/communications-log.runtimeconfig.dev.json
+C:/Users/cback/OneDrive - Western Governors University/Desktop/communication-log/communications-log/communications-log/bin/Debug/net5.0/communications-log.dll
+C:/Users/cback/OneDrive - Western Governors University/Desktop/communication-log/communications-log/communications-log/bin/Debug/net5.0/ref/communications-log.dll
+C:/Users/cback/OneDrive - Western Governors University/Desktop/communication-log/communications-log/communications-log/bin/Debug/net5.0/communications-log.pdb
+C:/Users/cback/OneDrive - Western Governors University/Desktop/communication-log/communications-log/communications-log/obj/Debug/net5.0/communications-log.csproj.AssemblyReference.cache
+C:/Users/cback/OneDrive - Western Governors University/Desktop/communication-log/communications-log/communications-log/obj/Debug/net5.0/communications-log.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/cback/OneDrive - Western Governors University/Desktop/communication-log/communications-log/communications-log/obj/Debug/net5.0/communications-log.AssemblyInfoInputs.cache
+C:/Users/cback/OneDrive - Western Governors University/Desktop/communication-log/communications-log/communications-log/obj/Debug/net5.0/communications-log.AssemblyInfo.cs
+C:/Users/cback/OneDrive - Western Governors University/Desktop/communication-log/communications-log/communications-log/obj/Debug/net5.0/communications-log.csproj.CoreCompileInputs.cache
+C:/Users/cback/OneDrive - Western Governors University/Desktop/communication-log/communications-log/communications-log/obj/Debug/net5.0/communications-log.dll
+C:/Users/cback/OneDrive - Western Governors University/Desktop/communication-log/communications-log/communications-log/obj/Debug/net5.0/ref/communications-log.dll
+C:/Users/cback/OneDrive - Western Governors University/Desktop/communication-log/communications-log/communications-log/obj/Debug/net5.0/communications-log.pdb
+C:/Users/cback/OneDrive - Western Governors University/Desktop/communication-log/communications-log/communications-log/obj/Debug/net5.0/communications-log.genruntimeconfig.cache
+/Users/david/Projects/studio-15/CommunicationsLog/communications-log/communications-log/obj/Debug/net5.0/communications-log.csproj.AssemblyReference.cache
+/Users/david/Projects/studio-15/CommunicationsLog/communications-log/communications-log/obj/Debug/net5.0/communications-log.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david/Projects/studio-15/CommunicationsLog/communications-log/communications-log/obj/Debug/net5.0/communications-log.AssemblyInfoInputs.cache
+/Users/david/Projects/studio-15/CommunicationsLog/communications-log/communications-log/obj/Debug/net5.0/communications-log.AssemblyInfo.cs
+/Users/david/Projects/studio-15/CommunicationsLog/communications-log/communications-log/obj/Debug/net5.0/communications-log.csproj.CoreCompileInputs.cache
+/Users/david/Projects/studio-15/CommunicationsLog/communications-log/communications-log/obj/Debug/net5.0/communications-log.dll
+/Users/david/Projects/studio-15/CommunicationsLog/communications-log/communications-log/obj/Debug/net5.0/ref/communications-log.dll
+/Users/david/Projects/studio-15/CommunicationsLog/communications-log/communications-log/obj/Debug/net5.0/communications-log.pdb
+/Users/david/Projects/studio-15/CommunicationsLog/communications-log/communications-log/bin/Debug/net5.0/communications-log.deps.json
+/Users/david/Projects/studio-15/CommunicationsLog/communications-log/communications-log/bin/Debug/net5.0/communications-log.runtimeconfig.json
+/Users/david/Projects/studio-15/CommunicationsLog/communications-log/communications-log/bin/Debug/net5.0/communications-log.runtimeconfig.dev.json
+/Users/david/Projects/studio-15/CommunicationsLog/communications-log/communications-log/bin/Debug/net5.0/communications-log.dll
+/Users/david/Projects/studio-15/CommunicationsLog/communications-log/communications-log/bin/Debug/net5.0/ref/communications-log.dll
+/Users/david/Projects/studio-15/CommunicationsLog/communications-log/communications-log/bin/Debug/net5.0/communications-log.pdb
+/Users/david/Projects/studio-15/CommunicationsLog/communications-log/communications-log/obj/Debug/net5.0/communications-log.genruntimeconfig.cache
