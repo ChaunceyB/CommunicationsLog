@@ -21,6 +21,8 @@ namespace communications_log
 
             Console.WriteLine("Cleared to land.");
 
+            Console.WriteLine("Let's make some conflict...");
+
         }
     }
 }
