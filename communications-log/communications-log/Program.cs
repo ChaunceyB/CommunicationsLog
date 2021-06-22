@@ -21,6 +21,8 @@ namespace communications_log
 
             Console.WriteLine("Cleared to land.");
 
+            Console.WriteLine("Clear skies, wind w/nw at 15 mph.");
+
         }
     }
 }
