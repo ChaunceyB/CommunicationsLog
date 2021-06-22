@@ -14,6 +14,8 @@ namespace communications_log
 
             Console.WriteLine("I'm out of good quotes");
 
+            Console.WriteLine("Cleared to land.");
+
         }
     }
 }
